@@ -1,0 +1,2 @@
+# Assignment 2 - Liang Villarrubia
+This assignment covers Agile concepts such as estimation, velocity, planning, and version control using Git and GitHub. It includes calculating team velocity, analyzing burndown charts, splitting user stories, and exploring effective Agile planning. The final part applies a full Git workflow with branching, collaboration, and merging to demonstrate practical version control skills.
