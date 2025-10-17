@@ -1,0 +1,1 @@
+In Agile, velocity measures completed story points per iteration, and burndown charts visualize remaining work vs. time.
